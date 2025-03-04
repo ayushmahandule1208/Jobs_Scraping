@@ -1,0 +1,41 @@
+[{
+  "question": "What is EspeonX?",
+  "answer": "EspeonX is a blockchain-powered platform that enables users to buy, sell, and trade in-game assets securely using smart contracts."
+},
+{
+  "question": "How do I buy assets on the marketplace?",
+  "answer": "You can buy assets by connecting your crypto wallet, selecting the asset you want, and completing the transaction using Espeon tokens."
+},
+{
+  "question": "Which blockchain does EspeonX use?",
+  "answer": "EspeonX is built on Ethereum, utilizing smart contracts for secure and transparent asset transactions."
+},
+{
+  "question": "What is the role of Espeon Tokens?",
+  "answer": "Espeon Tokens ($ESPN) are used for transactions, governance, and rewards within the EspeonX ecosystem."
+},
+{
+  "question": "Can I trade my in-game assets with other users?",
+  "answer": "Yes, the marketplace allows peer-to-peer trading of in-game assets, ensuring transparency and security through blockchain technology."
+},
+{
+  "question": "How do I list my assets for sale?",
+  "answer": "You can list your assets by connecting your wallet, selecting the item from your inventory, setting a price, and confirming the listing."
+},
+{
+  "question": "Is there a transaction fee for buying and selling assets?",
+  "answer": "Yes, a small transaction fee is charged to cover gas fees and maintain the marketplace infrastructure."
+},
+{
+  "question": "How do I withdraw funds from my wallet?",
+  "answer": "You can withdraw funds by connecting your wallet to a crypto exchange that supports Espeon Tokens and transferring them to your preferred fiat currency."
+},
+{
+  "question": "Is EspeonX compatible with all games?",
+  "answer": "EspeonX is designed to support multiple games, but integration depends on game developers adopting the EspeonX ecosystem."
+},
+{
+  "question": "What security measures are in place to protect my assets?",
+  "answer": "EspeonX uses blockchain technology, smart contracts, and decentralized security protocols to ensure asset protection and prevent fraud."
+}
+]
